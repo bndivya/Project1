@@ -1,5 +1,11 @@
 Sample file modified!
 
+<<<<<<< HEAD
 Latest awesome change  -- same line changes
 
 new line changes
+=======
+-------------- 123456
+
+qwerty
+>>>>>>> master1

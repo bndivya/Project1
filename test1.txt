@@ -1,2 +1,7 @@
 NEw changes1
+<<<<<<< HEAD
 Latest new chnage
+=======
+
+New changes again
+>>>>>>> master1
